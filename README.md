@@ -40,7 +40,7 @@ And specifically for campains for plays
 
 ![](https://github.com/zkellsworth/kickstarter-analysis/blob/master/resources/play_outcomes.png?raw=true)
 
-However, there is a goal based consideration to the above. When the goal is between $5000 to $10000 we cross the mark from the majority of projects getting funded to the majority failing their goal.
+However, there is a goal based consideration to the above. When the goal is between $15000 to $20000 we cross the mark from the majority of projects getting funded to the majority failing their goal.
 
 ![](https://github.com/zkellsworth/kickstarter-analysis/blob/master/resources/Outcomes_vs_Goals.png?raw=true)
 
@@ -56,7 +56,7 @@ Advanced excel can sometimes be a fickle beast. There was a point that our table
 
 ## Summary
 
-Using the information provided from kickstarter itself we have been able to show that there is a large demographic of potential donors for the play. However, the stated goal of $10,000 does put us in a fundraising category that less than half meet their goals. As stated there is a sharp uptick in successful campaigns in the spring, but the data to conclude why is unavailable. Likewise we can see the majority of failed campaigns happen in December and again there is insufficient data to conclude why. A usefull piece of data would be the donor count or donor amount per month. Doing this would allow us to graph this more fine data per month.
+Using the information provided from kickstarter itself we have been able to show that there is a large demographic of potential donors for the play. As stated there is a sharp uptick in successful campaigns in the spring, but the data to conclude why is unavailable. Likewise we can see the majority of failed campaigns happen in December and again there is insufficient data to conclude why. A usefull piece of data would be the donor count or donor amount per month. Doing this would allow us to graph this more fine data per month.
 
 
 
